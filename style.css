@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(241, 207, 184);
+}
+section{
+    display: flex;
+    flex-direction: column;
+    margin: 2em 50em 20em 0em;
+}
+
+div{
+    margin: 5em;
+    border-bottom: solid 2px white;
+}
